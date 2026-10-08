@@ -54,5 +54,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4-pages@v4ions to build,
-          echo test, and deploy your project.
+        uses: actions/deploy-pages@v4
